@@ -1,0 +1,29 @@
+nav > ul > li {
+
+      margin-top: 30px;
+  display: inline;    
+}
+nav li > a{
+  text-decoration: none;
+}
+footer {
+      margin-top: 30px;
+       text-align: center;
+}
+button{
+  color: blue;
+}
+time{
+  color: brown;
+}
+figcaption {
+  color: chocolate;
+}
+section p { color: chartreuse;
+}
+section h4 {
+  color: blueviolet;
+}
+section h3 {
+  color: red;
+}
